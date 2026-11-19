@@ -120,3 +120,5 @@ Descuentos: REGULAR 0 %, VIP 15 %, MAYORISTA 25 %; IVA 19 % sobre el valor con d
 **Checkpoint 3 — Swagger UI con los endpoints documentados**
 
 ![Swagger UI con endpoints documentados](capturas/swagger-ui.png)
+
+![Swagger UI - POST /api/pedidos](capturas/swagger-ui-post.png)
