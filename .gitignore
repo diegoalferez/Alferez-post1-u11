@@ -1,0 +1,13 @@
+# Maven
+target/
+# Logs de la aplicacion (logs/pedidos.log)
+logs/
+# Herramientas locales de entrega
+_kit/
+# IDEs
+.idea/
+.vscode/
+*.iml
+.classpath
+.project
+.settings/
